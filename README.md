@@ -1,5 +1,8 @@
 # 📊 Customer Segmentation & CLTV Analysis (RFM + BG/NBD + Gamma-Gamma)
 
+
+## 🔥 End-to-End Data Science Project
+Customer segmentation + CLTV prediction using real retail data
 ---
 
 ## 📂 Dataset
