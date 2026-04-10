@@ -1,16 +1,63 @@
-## Hi there 👋
+# 📊 Customer Analytics Project (RFM + CLTV)
 
-<!--
-**ahmetince-ds/ahmetince-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Project Overview
+This project focuses on customer segmentation and lifetime value prediction using real-world retail data.
 
-Here are some ideas to get you started:
+The goal is to understand customer behavior and identify high-value customers using data science techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Methods Used
+
+### 📌 RFM Analysis
+- Recency
+- Frequency
+- Monetary
+
+### 📌 CLTV Prediction
+- BG-NBD Model
+- Gamma-Gamma Model
+- Expected Customer Lifetime Value
+
+---
+
+## 📈 Business Insights
+
+- Customer segmentation (A/B/C/D groups)
+- High-value customer identification
+- Customer purchase behavior prediction
+
+---
+
+## 🛠️ Technologies
+
+- Python 🐍
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Lifetimes Library
+
+---
+
+## 📂 Project Files
+
+- `rfm_analysis.py`
+- `cltv_prediction.py`
+- `rfm.csv`
+- `cltv_prediction.csv`
+
+---
+
+## 🎯 Result
+
+This project helps businesses to:
+- Increase customer retention
+- Identify profitable customers
+- Improve marketing strategies
+
+---
+
+## 📫 Author
+
+Ahmet İnce  
+GitHub: https://github.com/ahmetince-ds
