@@ -463,3 +463,25 @@ cltv_final['clv'].hist(bins=50)
 plt.title("CLTV Distribution")
 plt.show()
 
+# RFM Segment Dağılımı
+rfm['segment'].value_counts().plot(kind='bar')
+plt.title("RFM Segment Distribution")
+plt.show()
+
+#  CLTV Dağılımı
+sns.histplot(cltv_final['clv'], bins=50)
+plt.title("CLTV Distribution")
+plt.show()
+
+# Top Customers
+cltv_final.sort_values("clv", ascending=False).head(10).plot(
+    x="Customer ID", y="clv", kind="bar"
+)
+plt.title("Top 10 Customers by CLTV")
+plt.show()
+
+
+
+
+
+
