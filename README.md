@@ -1,5 +1,5 @@
 # 📊 Customer Segmentation & CLTV Analysis (RFM + BG/NBD + Gamma-Gamma)
-
+Dataset: Online Retail II dataset (available on Kaggle)
 ## 📌 Project Overview
 This project focuses on customer segmentation and Customer Lifetime Value (CLTV) prediction using the Online Retail dataset.  
 RFM analysis and probabilistic models (BG/NBD & Gamma-Gamma) are applied to understand customer behavior and predict future value.
